@@ -1,20 +1,28 @@
 # ATM Management System (C++)
 
-A console-based ATM Management System developed in C++ using Object-Oriented Programming and File Handling.
-
 ## Features
-- Create Account
-- Login System
-- Check Balance
+
+- Create New Account
+- Secure Login using Account Number and PIN
+- Check Account Balance
 - Deposit Money
 - Withdraw Money
 - Change PIN
-- Data Storage using File Handling
+- Store Account Data in File
+- Multiple Account Support
 
 ## Technologies Used
+
 - C++
-- OOP
+- Object-Oriented Programming (OOP)
 - File Handling
+- STL Vector
+
+## Project Structure
+
+ATM Management System/
+├── main.cpp
+└── accounts.txt
 
 ## How to Run
 
@@ -22,4 +30,8 @@ A console-based ATM Management System developed in C++ using Object-Oriented Pro
 g++ main.cpp -o atm
 ./atm
 ```
+
+## Author
+
+Tamanna Baghel
 
