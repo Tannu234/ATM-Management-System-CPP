@@ -27,7 +27,8 @@ g++ main.cpp -o atm
 ./atm
 ```
 
-## Author
-
-Tamanna Baghel
-
+## Future Improvements
+- Transaction History
+- Multiple User Accounts
+- File Handling
+- Admin Panel
