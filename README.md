@@ -2,14 +2,10 @@
 
 ## Features
 
-- Create New Account
-- Secure Login using Account Number and PIN
-- Check Account Balance
+- Balance Inquiry
+- Cash Withdrawal
 - Deposit Money
-- Withdraw Money
-- Change PIN
-- Store Account Data in File
-- Multiple Account Support
+- PIN Verification
 
 ## Technologies Used
 
